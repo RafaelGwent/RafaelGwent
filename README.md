@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/pedropro212">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelGwent&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGwent&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelGwent&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGwent&layout=compact&langs_count=8&theme=blue_navy"/>
 </div>
 
 <div style="display1; inline_block"><br>
